@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include <cstring>
 using namespace std;
 #define STACK_MAX_SIZE 20
 #define STACK_OVERFLOW -100
